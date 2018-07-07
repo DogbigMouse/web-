@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+*{margin:0;padding:0}
+div.content{ padding:20px;border:2px dashed #ccc; height: 200px; flat:left;width: 300px;float: left	}
+div.content img{width:180px;height:200px;float:left}
+div.content p{margin-bottom:7px}
+.neirong{margin-top: 50px;}
+
+form{margin:30px;}
+form p{display:inline-block;height:30px;margin-right: 30px;}
+.shu{text-align: center;width: 25px;}
